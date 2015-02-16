@@ -63,3 +63,9 @@ www.rseek.org
 http://cran.r-project.org/bin/windows/Rtools/ 
 install.packages("devtools")
 find_rtools()
+
+## github login name in rstudio
+It asked me for my github account login name when I did a push. I don't see where it has the setting 
+to specify it. Perhaps it asks once and does not ask again.
+Nope it did not when I restarted rstudio. Lets see if it remembers it between checkins without
+doing a restart.  It did not.
